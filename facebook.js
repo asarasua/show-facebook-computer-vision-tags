@@ -16,7 +16,7 @@ const emoji_map = {
   "árbol de navidad": "🎄",
   "primer plano": "👀",
   "nube": "☁️",
-  "grupo": "👥",
+  "multitud": "👥",
   "perro": "🐶",
   "bebida": "🍹",
   "comiendo": "🍴",
