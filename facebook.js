@@ -53,6 +53,7 @@ const emoji_map = {
   "de pie": "💁",
   "rayas": "📶",
   "traje": "👔",
+  "de traje": "👔",
   "gafas de sol": "😎",
   "nadando": "🏊",
   "mesa": "🍽",
