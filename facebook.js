@@ -1,5 +1,5 @@
 const emoji_map = {
-  "1 persona": "👤",
+  "una persona": "👤",
   "2 personas": "👥",
   "3 personas": "👥",
   "4 personas": "👥",
