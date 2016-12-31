@@ -76,7 +76,7 @@ const show_facebook_cv_tags = function() {
     const isCVTag = altText.startsWith(TAG_PREFIX);
 
     if (isCVTag) {
-      const tags = altText.slice(TAG_PREFIX.length).split(/, | y /);
+      const tags = altText.slice(TAG_PREFIX.length).split(/, | y | e /);
       let html = "<ul style='position:absolute;top:10px;right:10px;padding:5px;font-size:12px;line-height:1.8;background-color:rgba(0,0,0,0.7);color:#fff;border-radius:5px'>";
 
       tags.forEach(function(tag){
