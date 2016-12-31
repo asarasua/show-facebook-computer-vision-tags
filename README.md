@@ -20,7 +20,7 @@ desarrollada por el
 
 Por un lado, esto es genial. Mejora la accesibilidad para usuarios ciegos que dependen de lectores de pantalla que sólo pueden procesar texto.
 
-Pero creo que muchos de los usuarios de internet no se dan cuenta de la cantidad de información que se extrae habitualmente de las fotografías. Facebook (y Google, Apple, Amazon, etc) pueden fácilmente extraer de tus imágenes si tienes un perro, si coleccionas cámaras, si juegas al golf, si tienes hijos o si simplemente te gustan las gafas de sol. Nada les impide utilziar esa información para mostrarte anuncios relevantes basados en tus fotos - ¡incluso si otro usuario subió la foto y no te ha etiquetado directamente!
+Pero creo que muchos de los usuarios de internet no se dan cuenta de la cantidad de información que se extrae habitualmente de las fotografías. Facebook (y Google, Apple, Amazon, etc) pueden fácilmente extraer de tus imágenes si tienes un perro, si coleccionas cámaras, si juegas al golf, si tienes hijos o si simplemente te gustan las gafas de sol. Nada les impide utilizar esa información para mostrarte anuncios relevantes basados en tus fotos - ¡incluso si otro usuario subió la foto y no te ha etiquetado directamente!
 
 Ésta es una sencilla extensión para Chrome que he creado en unos minutos para hacer más sencillo ver las etiquetas que Facebook está aplicando automáticamente a tus fotos y las de tus amigos. Una vez que lo instalas, todas las fotos que ves en tu timeline de Facebook aparecerán automáticamente con sus etiquetas, tal como en esta imagen:
 
